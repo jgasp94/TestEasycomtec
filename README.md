@@ -1,7 +1,8 @@
 
 ## Demonstração
+  - Para testar a solução basta baixar o projeto e no diretório da solução excutar o comando
 
-    Para testar a solução basta baixar o projeto e no diretório da solução excutar o comando "dotnet test".
+    dotnet test
 
 ## Stack utilizada
 
